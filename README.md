@@ -1,1 +1,1 @@
-# .github
+# Quark-Gluon Tomography collaboration
