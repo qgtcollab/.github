@@ -1,4 +1,4 @@
-## Hi there 👋
+## Quark-Gluon Tomography collaboration
 
 <!--
 
